@@ -10,6 +10,7 @@ toggleButton.addEventListener('click', function() {
     }
 });
 const texts = [
-    "Hi, I'm JEFFERSON!",
+    "Hi, I'm LEFIKA!",
     "I'm a Web Developer",
     "I Build Cool Things",
+
