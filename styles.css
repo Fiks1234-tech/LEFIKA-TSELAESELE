@@ -122,7 +122,7 @@ a:hover {
 
     border: 5px solid #4CAF50; 
 
-    border-radius: 10px; 
+    border-radius: 5px; 
 
 } main a[href^="mailto:"] { 
 
@@ -149,3 +149,4 @@ body.dark-mode nav { background-color: #222222; }
     from, to { border-color: transparent; }
     50% { border-color: #4CAF50; }
 }
+
